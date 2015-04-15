@@ -1,0 +1,17 @@
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\MainWindow.baml
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\MainWindow.g.cs
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\App.g.cs
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos_MarkupCompile.cache
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.g.resources
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.Properties.Resources.resources
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\bin\Debug\fabricaAbstractaAutos.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\bin\Debug\fabricaAbstractaAutos.pdb
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.pdb
+D:\David\Universidad\Arquitectura de software\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.exe
+D:\David\Universidad\Arquitectura de software\fabricaAbstractaAutos\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.pdb
+D:\David\Universidad\Arquitectura de software\fabricaAbstractaAutos - copia\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.exe
+D:\David\Universidad\Arquitectura de software\fabricaAbstractaAutos - copia\fabricaAbstractaAutos\obj\x86\Debug\fabricaAbstractaAutos.pdb
